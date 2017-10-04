@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Commute Tracker</string>
+
+    <string name="route_feed_activity_title">Routes</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+
+    <string name="add_route_activity_title">Add a Route</string>
+    <string name="title">Title</string>
+    <string name="src_address">Source Address</string>
+    <string name="dest_address">Destination Address</string>
+    <string name="add">Add</string>
+    <string name="cancel">X</string>
+</resources>

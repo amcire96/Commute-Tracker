@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_height_small">48dp</dimen>
+
+    <dimen name="menu_text_font">24sp</dimen>
+    <dimen name="menu_text_right_margin">10dp</dimen>
+
+</resources>
